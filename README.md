@@ -18,7 +18,7 @@ This technology is one of the most broadly applied areas of machine learning and
 By the end of this Specialization, you will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots. These and other NLP applications are going to be at the forefront of the coming transformation to an [AI-powered future](https://www.deeplearning.ai/?utm_source=Coursera&utm_medium=about&utm_campaign=NLP_6/17).
 
 This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. 
-[Younes Bensouda Mourri]() is an Instructor of AI at Stanford University who also helped build the [Deep Learning Specialization](). [Łukasz Kaiser]() is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper. 
+[Younes Bensouda Mourri](https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9/) is an Instructor of AI at Stanford University who also helped build the [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/?utm_source=coursera&utm_medium=spec&utm_content=NLP_6%2F17). [Łukasz Kaiser](https://www.linkedin.com/in/lukaszkaiser/) is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper. 
 
 Applied Learning Project
 
