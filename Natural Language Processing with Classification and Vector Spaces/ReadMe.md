@@ -1,5 +1,7 @@
 # Natural Language Processing with Classification and Vector Spaces
 
+[Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/programs/kiron-open-higher-education-learning-program-55mz5/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
+
 ## What you'll learn
 
 ✅ Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
